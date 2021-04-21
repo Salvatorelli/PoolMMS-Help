@@ -7,10 +7,10 @@ contact_links:
     url: https://kb.salvatorelli.group/product/PoolMMS
     about: General help documentation.
   - name: PoolMMS Community Wiki
-    url: https://github.com/Salvatorelli/PoolMMS-Issues/wiki
+    url: https://github.com/Salvatorelli/PoolMMS-Help/wiki
     about: An open wiki for the community to contribute to.
   - name: PoolMMS Issue Tracker
-    url: https://github.com/Salvatorelli/PoolMMS-Issues/issues
+    url: https://github.com/Salvatorelli/PoolMMS-Help/issues
     about: Bug reports and feature requests.
   - name: Security Vulnerability Policy
     url: https://help.poolmms.com/SECURITY
