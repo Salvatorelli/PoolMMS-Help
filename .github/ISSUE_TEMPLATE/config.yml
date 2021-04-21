@@ -1,0 +1,17 @@
+blank_issues_enabled: false
+contact_links:
+  - name: PoolMMS Help Portal
+    url: https://help.poolmms.com
+    about: Links to email addresses, help documentation, and more.
+  - name: PoolMMS Knowledege Base
+    url: https://kb.salvatorelli.group/product/PoolMMS
+    about: General help documentation.
+  - name: PoolMMS Community Wiki
+    url: https://github.com/Salvatorelli/PoolMMS-Issues/wiki
+    about: An open wiki for the community to contribute to.
+  - name: PoolMMS Issue Tracker
+    url: https://github.com/Salvatorelli/PoolMMS-Issues/issues
+    about: Bug reports and feature requests.
+  - name: Security Vulnerability Policy
+    url: https://help.poolmms.com/SECURITY
+    about: Please report security vulnerabilities here.
