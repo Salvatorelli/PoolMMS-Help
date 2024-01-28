@@ -3,7 +3,7 @@ Support Email: support@poolmms.com
 Sales Email: sales@poolmms.com
   
 [Security Policy](/SECURITY.md)  
-[Knowledge Base](https://kb.salvatorelli.group/product/PoolMMS)  
+[Knowledge Base](https://kb.poolmms.com)  
 [Bug Reports and Feature Requests](https://github.com/Salvatorelli/PoolMMS-Help/issues)  
 [Community Wiki](https://github.com/Salvatorelli/PoolMMS-Help/wiki)  
 
